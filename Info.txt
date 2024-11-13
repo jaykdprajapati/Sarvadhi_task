@@ -1,0 +1,15 @@
+Completed task
+
+Careted Database structure
+Made seeder for to add data to the database.
+Maintain the relation between the tables.
+Please run admin seeder for the to get admin user.
+User rigitration is complted.
+login is also working for all users.
+Admin can see the course and university data.
+Used Yajra to show the dat to the admin.
+
+
+In-Complet task
+
+User side is remaining.
